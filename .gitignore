@@ -9,3 +9,4 @@ __pycache__/*
 
 intern-skills/*
 .intern-skills/*
+.DS_Store
