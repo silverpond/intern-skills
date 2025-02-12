@@ -7,3 +7,6 @@ venv/*
 __pycache__/*
 *.pyc
 
+intern-skills/*
+.intern-skills/*
+.DS_Store
